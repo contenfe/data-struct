@@ -1,0 +1,3 @@
+/home/qindao/Desktop/data structure/build/CMakeFiles/rebuild_cache.dir
+/home/qindao/Desktop/data structure/build/CMakeFiles/edit_cache.dir
+/home/qindao/Desktop/data structure/build/CMakeFiles/main.dir
